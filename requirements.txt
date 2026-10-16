@@ -14,3 +14,4 @@ fastdtw
 cvxpy
 rich
 imbalanced-learn
+python-3.8
